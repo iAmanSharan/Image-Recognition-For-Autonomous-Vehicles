@@ -1,0 +1,6 @@
+numpy
+pandas
+seaborn
+transformers 
+transformers[sentencepiece]
+-e .
