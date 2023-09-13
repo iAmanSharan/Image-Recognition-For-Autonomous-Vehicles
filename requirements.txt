@@ -1,0 +1,19 @@
+transformers
+transformers[sentencepiece]
+numpy
+pandas
+matplotlib
+ensure==1.0.2
+tqdm
+seaborn
+tensorflow
+dvc
+notebook
+python-box==6.0.2
+pyYAML
+joblib
+types-pyYAML
+scipy
+flask
+flask-cors
+-e .
